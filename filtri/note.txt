@@ -1,0 +1,13 @@
+Per filtro lpf da usare con pa irf510 utilizzare: t50-2 e t50-6
+
+dimensioni: 7x13mm
+
+Per filtro lpf da usare con pa irf510 utilizzare: t80-2 e t80-6
+
+dimensioni: 7x21 mm
+
+Per i condensatori a mica calcolare circa 1cm di passo
+
+
+
+
